@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Haas VF-2",
+    "axis_count": 3,
+    "spindle_max_rpm": 8100,
+    "spindle_power_kw": 22.4,
+    "travel_x_mm": 762,
+    "travel_y_mm": 406,
+    "travel_z_mm": 508,
+    "controller_family": "Fanuc-style / Haas NGC"
+  },
+  {
+    "name": "SYIL X7",
+    "axis_count": 3,
+    "spindle_max_rpm": 10000,
+    "spindle_power_kw": 5.5,
+    "travel_x_mm": 700,
+    "travel_y_mm": 500,
+    "travel_z_mm": 450,
+    "controller_family": "Siemens 828D"
+  },
+  {
+    "name": "DMG MORI CMX 600 V",
+    "axis_count": 3,
+    "spindle_max_rpm": 12000,
+    "spindle_power_kw": 13,
+    "travel_x_mm": 600,
+    "travel_y_mm": 560,
+    "travel_z_mm": 510,
+    "controller_family": "Heidenhain/Fanuc"
+  }
+]

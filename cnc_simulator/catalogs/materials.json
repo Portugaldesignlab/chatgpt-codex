@@ -1,0 +1,37 @@
+[
+  {
+    "name": "6061-T6 Aluminum",
+    "type": "aluminum",
+    "hardness_hb": 95,
+    "chip_load_mm_per_tooth": 0.05,
+    "surface_speed_m_per_min": 300
+  },
+  {
+    "name": "AISI 1045 Steel",
+    "type": "steel",
+    "hardness_hb": 170,
+    "chip_load_mm_per_tooth": 0.03,
+    "surface_speed_m_per_min": 140
+  },
+  {
+    "name": "C360 Brass",
+    "type": "brass",
+    "hardness_hb": 100,
+    "chip_load_mm_per_tooth": 0.05,
+    "surface_speed_m_per_min": 220
+  },
+  {
+    "name": "Delrin POM",
+    "type": "plastic",
+    "hardness_hb": 15,
+    "chip_load_mm_per_tooth": 0.08,
+    "surface_speed_m_per_min": 450
+  },
+  {
+    "name": "Hard Maple",
+    "type": "wood",
+    "hardness_hb": 5,
+    "chip_load_mm_per_tooth": 0.1,
+    "surface_speed_m_per_min": 550
+  }
+]
