@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Sandvik CoroMill Dura 12mm",
+    "tool_type": "flat_endmill",
+    "diameter_mm": 12,
+    "flute_count": 4,
+    "max_stepdown_mm": 6,
+    "max_steover_ratio": 0.45
+  },
+  {
+    "name": "Kennametal Harvi I TE 8mm",
+    "tool_type": "flat_endmill",
+    "diameter_mm": 8,
+    "flute_count": 4,
+    "max_stepdown_mm": 4,
+    "max_steover_ratio": 0.4
+  },
+  {
+    "name": "Mitsubishi VQ 6mm Ball Nose",
+    "tool_type": "ball_endmill",
+    "diameter_mm": 6,
+    "flute_count": 2,
+    "max_stepdown_mm": 1.5,
+    "max_steover_ratio": 0.15
+  },
+  {
+    "name": "YG-1 4mm Ball Nose",
+    "tool_type": "ball_endmill",
+    "diameter_mm": 4,
+    "flute_count": 2,
+    "max_stepdown_mm": 1,
+    "max_steover_ratio": 0.1
+  }
+]
